@@ -1,5 +1,5 @@
 nav {
-    background-color: #563d7c ;
+    background-color: #4c85a0 ;
     color: #fff;
     padding: 30px 60px;
     display: flex;
@@ -24,12 +24,12 @@ nav li a{
 }
 
 nav li a:hover {
-    color: rgb(255, 0, 217);
+    color: rgb(186, 252, 188);
     text-decoration: none;
 }
 
 .avatar-ctn {
-    background-color: orange;
+    background-color: rgb(203, 244, 202);
     text-align: center;
 }
 
@@ -37,3 +37,4 @@ nav li a:hover {
     width: 65%;
     border-bottom:  1px solid rgba(0, 0, 0, 0.0125);
 }
+
